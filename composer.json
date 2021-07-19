@@ -9,7 +9,7 @@
             "email": "41167616+NahidHasanLimon@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "dev-main",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"NahidHasanLimon\\HelloWorld\\": "src/"}
     },
