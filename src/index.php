@@ -6,7 +6,7 @@ class Index
 {
     public function greet($greet)
     {
-        return "Tamim";
+        return $greet;
     }
 }
 
