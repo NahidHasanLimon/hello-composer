@@ -1,0 +1,17 @@
+{
+    "name": "nahidhasanlimon/hello-composer",
+    "description": "A simple hello world composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Md. Nahid Hasan Limon",
+            "email": "41167616+NahidHasanLimon@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"NahidHasanLimon\\HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
